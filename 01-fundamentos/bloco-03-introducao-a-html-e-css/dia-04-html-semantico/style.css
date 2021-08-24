@@ -1,3 +1,16 @@
+
+body{
+    background-color: rgb(35, 35, 35);
+    color: white;
+    max-width: 50%;
+    margin: 40px;
+}
+
+.menu-links,a{
+    margin-right: 50px;
+    background-color: gray;
+}
+/*
 h1, h3 {
     text-align: center;
   }
@@ -41,3 +54,5 @@ body{
     width: 300px;
     display: inline-block;
   }
+
+  */
