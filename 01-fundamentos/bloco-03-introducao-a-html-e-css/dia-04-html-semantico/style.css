@@ -1,15 +1,21 @@
 
 body{
-    background-color: rgb(35, 35, 35);
-    color: white;
-    max-width: 50%;
+    background-color: white;
+    color: rgb(35, 35, 35);
+    max-width: 40%;
     margin: 40px;
 }
 
-.menu-links,a{
+.navigation,a{
     margin-right: 50px;
-    background-color: gray;
+    
 }
+
+.image{
+  width: 600px;
+  margin-top: 15px;
+}
+
 /*
 h1, h3 {
     text-align: center;
