@@ -4,3 +4,19 @@
 // O lucro de um produto é o resultado da subtração do valor de venda pelo custo do mesmo, sendo que o imposto de 20% também faz parte do valor de custo.
 // valorCustoTotal = valorCusto + impostoSobreOCusto
 // lucro = valorVenda - valorCustoTotal (lucro de um produto)
+
+
+let valorCusto = 100;
+let valorVenda = 300;
+
+let valorCustoTotal;
+let impostoSobreOCusto;
+let lucro;
+
+impostoSobreOCusto = valorCusto * 0.2;
+valorCustoTotal = valorCusto + impostoSobreOCusto;
+lucro = valorVenda - valorCustoTotal;
+
+console.log("O lucro da venda de 1 produto é "+ lucro);
+
+console.log("Vendendo mil desses produtos, o lucro será de : "+ (lucro*1000));
