@@ -7,7 +7,7 @@ let testArray = [2, 3, 2, 5, 8, 2, 4, 4, 4, 4, 3, 2];
 
 // Verifica se o valor no endereço 0 se repete no array
 
-function getMostRepeted() {
+function getMostRepeated() {
   let maxValue = 0;
   let indexMaxValue = 0;
   let countChar = 0;
@@ -35,7 +35,7 @@ function getMostRepeted() {
   return testArray[indexMaxValue];
 }
 
-console.log( "O valor que mais se repete é: " + getMostRepeted(testArray));
+console.log( "O valor que mais se repete é: " + getMostRepeated(testArray));
 
 
 
