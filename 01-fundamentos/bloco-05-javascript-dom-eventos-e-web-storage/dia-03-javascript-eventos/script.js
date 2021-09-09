@@ -125,3 +125,24 @@ function changeFridaysText(){
 
 let buttonFriday = document.querySelector("#btn-friday");
 buttonFriday.addEventListener('click', changeFridaysText);
+
+
+// Exercicio 6
+// Implemente duas funções que criem um efeito de "zoom".
+// Ao passar o ponteiro do mouse em um dia do mês no calendário, o texto desse dia deve aumentar e, quando o ponteiro do mouse sair do dia, o texto deve retornar ao tamanho original.
+// Dica - Propriedade: event.target .
+
+function zoomIn(event){
+  event.target.style.fontSize = "x-large";
+}
+function zoomOut(event){
+  event.target.style.fontSize = "20px";
+}
+
+document.querySelector(".days-container").addEventListener('mouseover', zoomIn);
+document.querySelector(".days-container").addEventListener('mouseout', zoomOut);
+
+// Exercicio 7
+// Implemente uma função que adiciona uma tarefa personalizada ao calendário. A função deve receber como parâmetro a string com o nome da tarefa (ex: "cozinhar") e criar dinamicamente um elemento com a tag <span> contendo a tarefa.
+// O elemento criado deverá ser adicionado como filho/filha da tag <div> que possui a classe "my-tasks" .
+
