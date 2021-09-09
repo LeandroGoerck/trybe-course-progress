@@ -1,4 +1,5 @@
 
+let fridayButtonFlag = 0;
 
 
 function createDaysOfTheWeek() {
@@ -78,7 +79,7 @@ let buttonSelecion = document.querySelector("#btn-holiday");
 buttonSelecion.addEventListener('click', changeHolidaysColor);
 //changeHolidaysColor();
 
-//Exercicio 4
+// Exercicio 4
 // Implemente uma função que receba como parâmetro a string "Sexta-feira" e crie dinamicamente um botão com o nome "Sexta-feira".
 // Adicione a este botão o ID "btn-friday" .
 // Adicione este botão como filho/filha da tag <div> com classe "buttons-container" .
@@ -93,3 +94,34 @@ function createFridayButton(str){
 }
 
 createFridayButton("Sexta-Feira");
+
+// Exercicio 5
+// Implemente uma função que adicione ao botão "Sexta-feira" um evento de "click" que modifica o texto exibido nos dias que são Sexta-feira.
+// É interessante que este botão possua também a lógica inversa. Ao ser clicado novamente ele retorna à configuração inicial exibindo os dias.
+
+function changeFridaysText(){
+
+  let daysOfMonth = document.querySelector("#days").children; // Recupera os dias do mês em formato de array
+
+  if(fridayButtonFlag === 0){
+    for(let index=0; index<daysOfMonth.length; index +=1){
+      if(daysOfMonth[index].classList.contains("friday")){
+        daysOfMonth[index].innerText = "#"+daysOfMonth[index].innerText+"#";
+      }
+    }
+    fridayButtonFlag = 1;
+  }else{
+    for(let index=0; index<daysOfMonth.length; index +=1){
+      if(daysOfMonth[index].classList.contains("friday")){
+       // daysOfMonth[index].innerText = parseInt(daysOfMonth[index].innerText);
+        let justNumber = daysOfMonth[index].innerText.match(/\d+/g);
+        daysOfMonth[index].innerText = justNumber;        
+      }
+    }
+    fridayButtonFlag = 0;
+  }
+
+}
+
+let buttonFriday = document.querySelector("#btn-friday");
+buttonFriday.addEventListener('click', changeFridaysText);
