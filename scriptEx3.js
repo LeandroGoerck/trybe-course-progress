@@ -18,6 +18,7 @@ for( let y = 0; y < n; y += 1){
   }
 
   console.log(line);
+
 }
 
 
