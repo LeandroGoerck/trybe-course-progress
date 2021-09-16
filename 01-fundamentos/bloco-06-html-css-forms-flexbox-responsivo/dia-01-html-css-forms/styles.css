@@ -1,0 +1,35 @@
+
+.line-content {
+  margin-bottom: 15px;
+  background-color: rgb(240, 240, 240);
+  padding: 20px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgb(200, 200, 200);
+  border-radius: 5px;
+  max-width: 30%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.line-content input {
+  margin-right: 10px;
+}
+
+#abstract {
+  display: block;
+}
+
+#submit-content {
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;
+  height: 100px;
+}
+
+#submit-button {
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;
+  height: 30px;
+}
