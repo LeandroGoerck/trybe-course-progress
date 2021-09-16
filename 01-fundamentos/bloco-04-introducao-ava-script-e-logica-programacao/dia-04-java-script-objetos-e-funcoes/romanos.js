@@ -14,4 +14,3 @@ let romanNumbers = {
   'D' :  500,
   'CM':  900,
   'M' : 1000
-}
