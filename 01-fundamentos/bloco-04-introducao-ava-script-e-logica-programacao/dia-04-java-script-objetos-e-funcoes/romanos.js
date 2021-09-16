@@ -14,10 +14,3 @@ let romanNumbers = {
   'D' :  500,
   'CM':  900,
   'M' : 1000
-}
-
-function romanCalc( romanNumber ) {
-  let result = 0;
-  
-
-}
