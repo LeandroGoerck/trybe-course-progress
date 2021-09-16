@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+  <title>Document</title>
+</head>
+<body>
+  <form action="" method="get">
+  <fieldset>
+    <div class="line-content">
+      <input type="text" maxlength="40" required autofocus>Nome
+    </div>
+    <div class="line-content">
+      <input type="text" maxlength="50" required >e-mail
+    </div>
+    <div class="line-content">
+      <input type="text" maxlength="11" required>CPF
+    </div>
+    <div class="line-content">
+      <input type="text" maxlength="200" required>Endereço
+    </div>
+    <div class="line-content">
+      <input type="text" maxlength="28" required>Cidade
+    </div>
+    <div class="line-content">
+      <label for="state">Selecione o estado:</label>
+      <select id="state" name="state-list" required>
+      </select> 
+    </div>
+    <div class="line-content">
+      <input type="radio" name="living-option" id="living-option-1">Casa
+      <input type="radio" name="living-option" id="living-option-2">Apartamento
+    </div>
+  </fieldset>
+
+<fieldset >
+  <div class="line-content">
+    <label for="abstract">Resumo do Currículo
+    <textarea name="abstract" id="abstract" cols="30" rows="10" maxlength="1000" required></textarea>
+  </label>
+  </div>
+<div class="line-content">
+  <input type="text" maxlength="40" required>Cargo
+</div>
+<div class="line-content">
+  <input type="text" maxlength="500" required>Descrição do Cargo
+</div> 
+<div class="line-content">
+  <input id="start-date" type="text" placeholder="dd/mm/aaaa" pattern="(1[0-2]|0[1-9])\/(1[5-9]|2\d)\/(1[1-2]|1[0-9]|1[0-9]|1[0-9])" data-valid-example="15/09/2021" maxlength="10" required>Data de Inicio
+</div> 
+<div id="submit-content">
+  <button id="submit-button" type="submit">Enviar Currículo</button>
+</div>
+</fieldset>
+
+
+  </form>
+  <script type="text/javascript" src="script.js"></script>
+</body>
+</html>
