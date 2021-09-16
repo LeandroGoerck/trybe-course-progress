@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <main id="paiDoPai">
+    <section id="pai">
+      <section id="primeiroFilho"></section>
+      <section id="elementoOndeVoceEsta">
+        <section id="primeiroFilhoDoFilho"></section>
+        <section id="segundoEUltimoFilhoDoFilho"></section>
+      </section>
+      Atenção!
+      <section id="terceiroFilho"></section>
+      <section id="quartoEUltimoFilho"></section>
+    </section>
+  </main>
+<script>/*
+  const elementoOndeVoceEsta = document.querySelector("#elementoOndeVoceEsta");
+  console.log(elementoOndeVoceEsta);
+
+  const pai = elementoOndeVoceEsta.parentElement;
+  pai.style.color = "red";
+
+  console.log(pai);
+
+  //elementoOndeVoceEsta.childElement.innerText = "Foguete não tinha ré!";
+  //console.log(elementoOndeVoceEsta.firstElementChild). = "Era uma vez, um foguete que não tinha ré!";
+  const primeiroFilhoDoFilho = elementoOndeVoceEsta.firstElementChild;
+  primeiroFilhoDoFilho.innerText = "Era uma vez, um foguete que não tinha ré!";
+
+  //Acesse o primeiroFilho a partir de pai .
+  console.log(pai.firstElementChild);
+
+  //Agora acesse o primeiroFilho a partir de elementoOndeVoceEsta .
+  console.log(elementoOndeVoceEsta.previousElementSibling);
+
+  //Agora acesse o texto Atenção! a partir de elementoOndeVoceEsta .
+  //console.log(elementoOndeVoceEsta.parentElement);
+  //console.log("== $0");
+  document.querySelectorAll('#pai')[0].innerText
+
+  //Agora acesse o terceiroFilho a partir de elementoOndeVoceEsta .
+  console.log(elementoOndeVoceEsta.nextElementSibling);
+
+  //Agora acesse o terceiroFilho a partir de pai .
+  console.log(pai.lastElementChild.previousSibling);
+
+  //Crie um irmão para elementoOndeVoceEsta .
+  const irmaoDoElemento = document.createElement("section"); 
+  irmaoDoElemento.innerText = "Irmão do Elemento";
+  pai.appendChild(irmaoDoElemento);
+
+  //Crie um filho para elementoOndeVoceEsta .
+  const filhoDeOndeEstou = document.createElement("section");
+  filhoDeOndeEstou.innerText = "Olha o filho Aqui";
+  elementoOndeVoceEsta.appendChild(filhoDeOndeEstou);
+
+  //Crie um filho para primeiroFilhoDoFilho .
+  //primeiroFilhoDoFilho = document.querySelector("#primeiroFilhoDoFilho");
+  const filhoDoPrimeiroFilhoDoFilho = document.createElement("section");
+  filhoDoPrimeiroFilhoDoFilho.innerText = "olha mais um filho aqui!";
+  primeiroFilhoDoFilho.appendChild(filhoDoPrimeiroFilhoDoFilho);
+*/
+
+  //Remova todos os elementos filhos de paiDoPai exceto pai , elementoOndeVoceEsta e primeiroFilhoDoFilho .
+  const paiDoPai = document.querySelectorAll("#paiDoPai");
+  console.log(paiDoPai);
+
+   for (let index = 0; index < paiDoPai.length; index += 1){
+     let paiListItem = paiDoPai[index];
+     //if( paiListItem.innerText === 'pai' || paiListItem.innerText === 'elementoOndeVoceEsta' || paiListItem.innerText === 'primeiroFilhoDoFilho'){
+
+     //}else{
+      paiDoPai.removeChild(paiListItem);
+     //}
+   }
+ 
+   
+
+</script>
+
+</body>
+</html>
