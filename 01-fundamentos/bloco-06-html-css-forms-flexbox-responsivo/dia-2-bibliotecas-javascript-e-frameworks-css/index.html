@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="node_modules/bulma/css/bulma.min.css">
+  <link rel="stylesheet" href="styles.css">
+  <title>Document</title>
+</head>
+<body class="container">
+  <div class="container">
+  <h1 class="title">Formulário de Currículo</h1>
+  </div>
+  <form action="" method="get">
+  <fieldset>
+
+    <div class="field">
+      <div class="control">
+        <label class="label" for="">Name</label>
+        <input class="input is-primary" placeholder="Digite seu nome" type="text" maxlength="40" required autofocus>
+      </div>
+    </div>
+
+    <div class="field">
+      
+      <div class="control">
+        <label class="label" for="">e-mail</label>
+        <input class="input" placeholder="Digite seu e-mail" type="email" maxlength="50" required >
+      </div>
+    </div>
+
+    <div class="field">
+      <div class="control">
+        <label class="label" for="">CPF</label>
+        <input class="input" placeholder="Digite seu CPF" type="text" maxlength="11" required>
+      </div>
+    </div>
+
+    <div class="field">
+      <div >
+        <label class="label" for="">Endereço</label>
+        <input class="input" type="text" maxlength="200" required>
+      </div>
+    </div>
+
+    <div class="field">
+      <div >
+        <label class="label" for="">Cidade</label>
+        <input class="input" type="text" maxlength="28" required>
+      </div>
+    </div>
+
+    <div class="field">
+      <div class="select">
+        <label for="state">Selecione o estado:</label>
+        <select id="state" name="state-list" required>
+        </select> 
+      </div>
+    </div>
+
+    <div class="field">
+      <div class="control">
+        <label class="radio" for="living-option-1">
+          <input type="radio" name="living-option" id="living-option-1">Casa
+        </label>
+        <label class="radio" for="living-option-2">
+          <input type="radio" name="living-option" id="living-option-2">Apartamento
+        </label>
+      </div>
+  </div>
+
+  </fieldset>
+
+<fieldset >
+  <div >
+    <label for="abstract">Resumo do Currículo
+    <textarea class="textarea" name="abstract" id="abstract" cols="30" rows="10" maxlength="1000" required></textarea>
+  </label>
+  </div>
+<div >
+  <input class="input" type="text" maxlength="40" required>Cargo
+</div>
+<div >
+  <input class="input" type="text" maxlength="500" required>Descrição do Cargo
+</div> 
+<div >
+  <input class="input" id="start-date" type="text" placeholder="dd/mm/aaaa" pattern="(1[0-2]|0[1-9])\/(1[5-9]|2\d)\/(1[1-2]|1[0-9]|1[0-9]|1[0-9])" data-valid-example="15/09/2021" maxlength="10" required>Data de Inicio
+</div> 
+<div id="submit-content">
+  <button id="submit-button" type="submit">Enviar Currículo</button>
+</div>
+</fieldset>
+
+
+  </form>
+  <script type="text/javascript" src="script.js"></script>
+</body>
+</html>
