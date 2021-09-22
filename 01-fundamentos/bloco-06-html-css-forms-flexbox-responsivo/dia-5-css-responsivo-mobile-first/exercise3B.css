@@ -81,32 +81,28 @@
   height: 1%;
 }
 
+/** For printing **/
 @media print {
-  #header, #navigation, #footer {
+  #header,
+  #navigation,
+  #footer {
     display: none;
   }
 
-  #aside {
-    float: none;
-    display: inline;
-  }
-
   #content {
-    float: none;
-    max-width: 100%;
+    width: 100%;
+    margin-right: 0px;
   }
 
-}
-
-@media screen and (max-width: 658px) {
   #aside {
     float: none;
     display: block;
+    page-break-inside: avoid;
   }
 }
 
-@media screen and (max-width: 450px) {
- 
+/** For small phones/windows **/
+@media (max-width: 450px) {
   body {
     padding: 0px;
   }
@@ -119,30 +115,27 @@
     height: 35px;
   }
 
-
+  #aside {
+    display: none;
+  }
 
   #content {
-    width: 90%;
+    width: 100%;
   }
 
   #navigation {
     margin-top: 75px;
   }
- 
+
   #navigation ul li {
-    display: flex;
+    display: block;
   }
 
-  #navigation li a {
-    border-right: 0px solid #fff;
+  #navigation ul li a {
+    float: none;
   }
 
   img {
     max-width: 100%;
   }
 }
-
-
-/* * {
-  border-style: solid; border-width: 2px; border-color: black;
-} */
