@@ -17,3 +17,49 @@ img {
 figure {
     margin: 0 0 40px 0;
 }
+
+@media screen and (min-width: 800px){
+  body {
+    background-color: lightgrey;
+    font-size: large;
+    margin: 35px;
+  }
+  h1 {
+    font-size: x-large;
+  }
+  .img-conteiner {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    /* flex-basis: 500px; */
+    flex-wrap: wrap;
+    /* background-color: lightseagreen; */
+    /* max-width: 80%; */
+  }
+  main figure {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0 0 50px 50px;
+    /* border: 2px; border-color: black; border-style: solid; */
+    width: 40%;
+  }
+
+  main figure img {
+    /* width: 40%; */
+  }
+
+  main h2 {
+    text-align: center;
+  }
+}
+
+@media screen and (min-width: 1300px) {
+  body {
+    background-color: lightskyblue;
+    margin: 0 auto 0 auto;
+    max-width: 1300px;
+    
+  }
+
+}
