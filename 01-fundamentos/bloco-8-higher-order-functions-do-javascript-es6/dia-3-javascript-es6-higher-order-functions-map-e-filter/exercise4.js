@@ -61,13 +61,12 @@ const books = [
   },
 ];
 
-// Adicione o código do exercício aqui:
+// 4 - Crie um array ordenado pelos livros com mais de 60 anos de publicação e ordene-o pelo livro mais velho.
+// Dica: use as funções filter e sort
 
-// 3 Crie um array com todos os objetos que possuem gênero ficção científica ou fantasia.
+function oldBooksOrdered() {
+  const olddestBooksList = books.filter( (book) => (2021 - book.releaseYear) > 60 );
+  return olddestBooksList.sort( (book1, book2) => book1.releaseYear - book2.releaseYear );
+};
 
-function fantasyOrScienceFiction() {
-  const newFilteredList = books.filter( (book) => book.genre === 'Ficção Científica' || book.genre === 'Fantasia'  );
-  return newFilteredList;
-}
-
-console.log(fantasyOrScienceFiction());
+console.log(oldBooksOrdered());
