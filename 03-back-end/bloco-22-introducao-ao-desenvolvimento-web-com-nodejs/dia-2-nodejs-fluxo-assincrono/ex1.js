@@ -20,10 +20,11 @@ function calc(a, b, c) {
   });
 }
 
-calc(10, 10, 'a')
-  .then(resolve => console.log(resolve))
-  .catch(error => console.log(error));
+function getRandomNumber() {
+  return Math.floor(Math.random() * 100 +1);
+}
 
-calc(1, 1, 1)
-  .then(resolve => console.log(resolve))
-  .catch(error => console.log(error))
+module.exports = {
+  calc,
+  getRandomNumber
+}
