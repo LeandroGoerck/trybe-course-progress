@@ -139,33 +139,48 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ## Desenvolvimento Back-end :hourglass_flowing_sand:
 
-##### Bloco 20: Introdução - Bancos de dados relacionais
+##### Bloco 19: Docker - Utilizando Containers
 
-- [ ] 20-1: _Banco de dados SQL_
-- [ ] 20-2: _Encontrando dados em um banco de dados_
-- [ ] 20-3: _Filtrando dados de forma específica_
-- [ ] 20-4: _Manipulando tabelas_
-- [ ] 20-5: _[Projeto - All For One]()_
+- [x] 19-1: _Introdução - Back-end_
+- [x] 19-1: _Utilizando Containers - Docker_
+- [x] 19-2: _Manipulação e Criação de Imagens no Docker_
+- [x] 19-3: _Orquestrando Containers com Docker Compose_
+- [x] 19-4: _[Projeto - Docker Todo-List]()_
 
-##### Bloco 21: Bancos de dados relacionais
+##### Bloco 19: Introdução à SQL
 
-- [ ] 21-1: _Funções mais usadas no SQL_
-- [ ] 21-2: _Descomplicando JOINs e UNIONs_
-- [ ] 21-3: _Stored Routines & Subqueries_
-- [ ] 21-4: _[Projeto - Vocabulary Booster]()_
+- [x] 19-1: _Introdução - Banco de dados relacionais_
+- [x] 19-1: _Banco de dados SQL_
+- [x] 19-2: _Encontrando dados em um banco de dados_
+- [x] 19-3: _Filtrando dados de forma específica_
+- [x] 19-4: _Manipulando tabelas_
+- [x] 19-5: _[Projeto - All For One]()_
 
-##### Bloco 22: Bancos de dados relacionais
+##### Bloco 21: Funções SQL, JOINs e Normalização
 
-- [ ] 22-1: _Transformando ideias em um modelo de banco de dados_
-- [ ] 22-2: _Normalização, Formas Normais e Dumps_
-- [ ] 22-2: _Transformando ideias em um modelo de banco de dados - Parte 2_
-- [ ] 22-3: _[Projeto - One For All]()_
+- [x] 21-1: _Funções mais usadas no SQL_
+- [x] 21-2: _Descomplicando JOINs_
+- [x] 21-3: _Transformando ideias em um modelo de banco de dados_
+- [x] 21-4: _[Projeto - One For All]()_
 
-##### Bloco 23: Introdução - NoSQL
+##### Bloco 22: Introdução ao desenvolvimento Web com Node.js
 
-- [ ] 23-1: _MongoDB - IntroduÃ§Ã£o_
-- [ ] 23-2: _Filter Operators_
-- [ ] 23-3: _[Projeto - Data Flights]()_
+- [x] 22-1: _Intro - Node.js_
+- [x] 22-1: _Node.js - Um motor JavaScript_
+- [x] 22-2: _Node.js - Fluxo Assíncrono_
+- [x] 22-3: _Mocha, Chai e Sinon - Testes de Back-end com Node.js_
+- [x] 22-4: _Express - HTTP com Node.js_
+- [x] 22-5: _Express - Middlewares
+- [x] 22-6: _[Projeto - Talker Manager]()_
+
+##### Bloco 23: Node.js: Camada de Serviço e Arquitetura Rest e Restful
+
+- [x] 23-1: _Introdução - Arquitetura de Software_
+- [x] 23-1: _Arquitetura de Software - Camada de Model_
+- [x] 23-2: _Arquitetura de Software - Camada de Controller e Service_
+- [x] 23-3: _Arquitetura Web - Rest e Restful_
+- [ ] 23-4: _Arquitetura de Software - Testando as Camadas_
+- [ ] 23-3: _[Projeto - Store Manager]()_
 
 ##### Bloco 24: Updates
 
@@ -233,7 +248,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 - [ ] 34-1: _[Projeto - Trybeer V2]()_
 
-## CiÃªncia da Computação :hourglass_flowing_sand:
+## Ciência da Computação :hourglass_flowing_sand:
 
 ##### Bloco 35: Introdução - Ciência da Computação
 
@@ -246,8 +261,8 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 - [ ] 35-1: _Aprendendo Python_
 - [ ] 35-2: _Testes e Exceções_
-- [ ] 35-3: _Entrada e SaÃ­da de dados_
-- [ ] 36-4: _Entrada e SaÃ­da de dados_
+- [ ] 35-3: _Entrada e Saída de dados_
+- [ ] 36-4: _Entrada e Saída de dados_
 - [ ] 35-5: _[Projeto - Tech news]()_
 
 # [...]
