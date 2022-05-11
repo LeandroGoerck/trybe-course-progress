@@ -1,7 +1,7 @@
 "use strict";
 // exercises.ts
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.losangle = exports.rectangle = exports.square = exports.triangle = exports.sumArray = exports.add = exports.personAge = exports.greeter = void 0;
+exports.circle = exports.trapezy = exports.losangle = exports.rectangle = exports.square = exports.triangle = exports.sumArray = exports.add = exports.personAge = exports.greeter = void 0;
 // ./exercises.ts
 function greeter(name) {
     return `Olá ${name}!`;
@@ -35,3 +35,11 @@ function losangle(greatDiag, smallDiag) {
     return (greatDiag * smallDiag) / 2;
 }
 exports.losangle = losangle;
+function trapezy(B, d, h) {
+    return ((B + d) * h) / 2;
+}
+exports.trapezy = trapezy;
+function circle(r) {
+    return 3.14 * r ** 2;
+}
+exports.circle = circle;

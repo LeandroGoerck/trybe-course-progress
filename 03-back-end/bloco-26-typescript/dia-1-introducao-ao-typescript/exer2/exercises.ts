@@ -34,4 +34,19 @@ export function losangle(greatDiag: number, smallDiag: number): number {
   return (greatDiag * smallDiag) / 2;
 }
 
+export function trapezy(B:number, d:number, h:number): number {
+  return ((B + d) * h) / 2;
+}
+
+export function circle(r:number) {
+  return 3.14 * r ** 2;
+}
+
+
+
+
+
+
+
+
 
