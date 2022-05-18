@@ -1,4 +1,4 @@
-class Order {
+class Order2 {
   private _customer: Customer;
   private _consumedItems: Product[] = [];
   private _paymentMethod: 'creditCard' | 'money';
@@ -40,8 +40,8 @@ class Order {
     this._discountPercent = value;
   }
 
-  calculateTotal() {
-    return [...this._consumedItems]
+  calculateTotal(): number {
+    return this._consumedItems
     .reduce((previousItem, value) => {
       value += previousItem.price;
       return value;
