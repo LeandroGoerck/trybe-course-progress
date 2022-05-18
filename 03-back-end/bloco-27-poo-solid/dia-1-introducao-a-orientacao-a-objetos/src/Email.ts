@@ -32,7 +32,9 @@ class Email {
   get content(): string {
     return `
     From ${this._from} to ${this._to}
-{this.subject}
-{this._message}`;
+    ${this.subject}
+    ${this._message}`;
   }
 }
+
+export default Email;

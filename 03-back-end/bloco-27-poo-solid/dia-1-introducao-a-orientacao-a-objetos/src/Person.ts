@@ -53,3 +53,4 @@ console.log(p1.height)
 p2.age = 300;
 
 console.log(p2.age);
+
