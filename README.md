@@ -253,22 +253,24 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 26-4: Projeto - Trybe - Smith
   - desenvolver um CRUD (Create, Read, Update e Delete) de itens medievais, no formato de uma API, utilizando Typescript.
   - Criar alguns endpoints que irão ler e escrever em um banco de dados, utilizando o MySQL.
-<details>
-  <summary><strong>Bloco 27: Programação Orientada a Objetos (POO) e SOLID</strong></summary><br />
-##### Bloco 27: Programação Orientada a Objetos (POO) e SOLID
 
-- [x] 27-1: Introdução á Orientação a Objetos
+##### Bloco 27: Programação Orientada a Objetos (POO) e SOLID
+<details>
+  <summary>[x] 27-1: Introdução á Orientação a Objetos</summary><br />
   - Definir Programação Orientada a Objetos como um paradigma de programação que é base  para inúmeras arquiteturas de software
   - Descrever Programação Orientada a Objetos como um paradigma baseado na criação de entidades que interagem entre si através da troca de mensagens
   - Definir, em Programação Orientada a Objetos, uma Classe, um Construtor, um Objeto, uma Instância, um Método.
   - Implementar, em TypeScript, Classes, Instâncias, Atributos, Métodos e envio de Mensagens entre Objetos
   - Descrever, como pilar da Programação Orientada a Objetos, a Abstração - a criação de entidades que conterão, cada uma, parte da lógica de seu programa
   - Descrever, como pilar da Programação Orientada a Objetos, o Encapsulamento - a exposição somente do que é necessário para uso dos objetos de uma classe
-- [x] 27-2: Herança e Interfaces
+</details>
+<details>
+   <summary>[x] 27-2: Herança e Interfaces</summary><br />
   - Descrever, como pilar da Programação Orientada a Objetos, a Herança, que é acapacidade de herdar, para especializar, os atributos e métodos de uma classe;
   - Definir, em Programação Orientada a Objetos, a Interface de uma classe;
   - Como boa prática, utilizar Herança apenas para especializar classes;
   - Como boa prática, utilizar Composição para compartilhar um mesmo código entre diferentes classes.
+</details>
 - [x] 27-3: Polimorfismo
   - Descrever, como pilar da Programação Orientada a Objetos, o Polimorfismo: múltiplas formas de se implementar um método descrito em uma interface;
   - Descrever Classe Abstrata como uma classe que não pode ser instanciada, devendo ser usada apenas por suas Classes Herdeiras;
@@ -288,7 +290,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   - A habilidade de utilizar Composição;
   - Implementar, em TypeScript, Classes, Instâncias, Atributos, Métodos e Objetos;
   - O conhecimento e aplicação dos princípios SOLID.
-</details>
+
 ##### Bloco 28: NodeJS
 
 - [ ] 28-1: _Arquitetura de Software - Camada de Serviço_
