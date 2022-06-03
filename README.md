@@ -180,32 +180,15 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 23-2: _Arquitetura de Software - Camada de Controller e Service_
 - [x] 23-3: _Arquitetura Web - Rest e Restful_
 - [x] 23-4: _Arquitetura de Software - Testando as Camadas_ 
-  - Testar individualmente cada camada do modelo MSC;
-  - Testar API's RESTs;
-  - Saber as diferenças e quando aplicar testes unitários e de integração;
-  - Desenvolver API's e arquiteturas orientadas a testes;
-
 - [x] 23-3: _[Projeto - Store Manager]()_
   - Criação de uma API completamente RESTful.
 
 ##### Bloco 24: Node.js: ORM e Autenticação
 
 - [x] 24-1: ORM - Interface da aplicação com o banco de dados
-  - Utilizar o Sequelize para integrar o banco de dados com a aplicação;
-  - Criar migrações utilizando o Sequelize;
-  - Criar seeds utilizando o Sequelize.
 - [x] 24-2: ORM - Associations
-  - Utilizar o sequelize para criar relacionamentos entre tabelas;
-  - Utilizar métodos que simulam comandos de integração de tabelas.
 - [x] 24-3: JWT - (JSON Web Token)
-  - Entender o que há por dentro de um token de autenticação e autorização;
-  - Gerar tokens a partir de informações como login e senha;
-  - Autenticar pessoas usuárias utilizando o token JWT.
-  - Autorizar o acesso a rotas do Express, usando o token JWT.
 - [x] 24-4: Testando APIs com Testes de Integração
-  - Entender e aplicar conceitos de testes de integração / contrato;
-  - Criar testes de integração para API's REST;
-  - Testar um endpoint com uma middleware de autenticação JWT.
 - [x] 24-5: Projeto API de blogs
   - Montar uma API e um banco de dados para a produção de um blog.
 
