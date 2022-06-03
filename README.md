@@ -212,17 +212,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ##### Bloco 25: Deployment
 
 - [x] 25-1: Deploy com Heroku
-  - Conhecer o que é um deploy e os principais serviços utilizados;
-  - Publicar aplicações através do Heroku;
-  - Visualizar logs das suas aplicações publicadas;
-  - Monitorar suas aplicações publicadas;
-  - Utilizar variáveis de ambiente dentro do Heroku.
 - [x] 25-2: Deploy Docker e Heroku
-  - Realizar o deploy de uma aplicação back-end;
-  - Configurar o docker para ser executado dentro do Heroku;
-  - Aprender o conceito e como implementar a pipeline CI/CD;
-  - Implementar Actions no GitHub;
-  - Adicionar uma pipeline ao Heroku.
 - [x] 25-3: Projeto - Stranger Things
   - Preparar uma aplicação para deploy.
   - Deploy da mesma aplicação front-end nos modos desenvolvimento e produção.
@@ -232,58 +222,18 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ##### Bloco 26: TypeScript
 
 - [x] 26-1: Introdução ao TypeScript
-  - Definir o que é a linguagem TypeScript;
-  - Compreender a relação entre a linguagem TypeScript e a linguagem JavaScript;
-  - Compreender o que é Tipagem (Dicas de tipo);
-  - Compreender a diferença entre Compilador e Transpilador;
-  - Compilar o seu código TypeScript em código JavaScript;
-  - Compreender o sistema de tipos do TypeScript; e
-  - Declarar variáveis de tipos primitivos do TypeScript.
 - [x] 26-2: Tipagem Estática e Generics
-  - Declarar tipos em coleções, Arrays e Tuplas;
-  - Declarar variáveis de tipos objeto do TypeScript;
-  - Compreender o que são Type Aliases;
-  - Compreender o que é uma Classe;
-  - Compreender o que é uma Interface;
-  - Compreender o que são Generics;
-  - Estruturar um model que usa os conceitos aprendidos.
 - [x] 26-3: Express com TypeScript
-  - Configurar um projeto Node.js com TypeScript
-  - Criar uma aplicação Express com TypeScript
 - [x] 26-4: Projeto - Trybe - Smith
   - desenvolver um CRUD (Create, Read, Update e Delete) de itens medievais, no formato de uma API, utilizando Typescript.
   - Criar alguns endpoints que irão ler e escrever em um banco de dados, utilizando o MySQL.
 
 ##### Bloco 27: Programação Orientada a Objetos (POO) e SOLID
-<details>
-  <summary>[x] 27-1: Introdução á Orientação a Objetos</summary><br />
-  - Definir Programação Orientada a Objetos como um paradigma de programação que é base  para inúmeras arquiteturas de software
-  - Descrever Programação Orientada a Objetos como um paradigma baseado na criação de entidades que interagem entre si através da troca de mensagens
-  - Definir, em Programação Orientada a Objetos, uma Classe, um Construtor, um Objeto, uma Instância, um Método.
-  - Implementar, em TypeScript, Classes, Instâncias, Atributos, Métodos e envio de Mensagens entre Objetos
-  - Descrever, como pilar da Programação Orientada a Objetos, a Abstração - a criação de entidades que conterão, cada uma, parte da lógica de seu programa
-  - Descrever, como pilar da Programação Orientada a Objetos, o Encapsulamento - a exposição somente do que é necessário para uso dos objetos de uma classe
-</details>
-<details>
-   <summary>[x] 27-2: Herança e Interfaces</summary><br />
-  - Descrever, como pilar da Programação Orientada a Objetos, a Herança, que é acapacidade de herdar, para especializar, os atributos e métodos de uma classe;
-  - Definir, em Programação Orientada a Objetos, a Interface de uma classe;
-  - Como boa prática, utilizar Herança apenas para especializar classes;
-  - Como boa prática, utilizar Composição para compartilhar um mesmo código entre diferentes classes.
-</details>
+
+- [x] 27-1: Introdução á Orientação a Objetos
+- [x] 27-2: Herança e Interfaces
 - [x] 27-3: Polimorfismo
-  - Descrever, como pilar da Programação Orientada a Objetos, o Polimorfismo: múltiplas formas de se implementar um método descrito em uma interface;
-  - Descrever Classe Abstrata como uma classe que não pode ser instanciada, devendo ser usada apenas por suas Classes Herdeiras;
-  - Definir Métodos Abstratos , ou Funções Abstratas;
-  - Implementar Métodos Estáticos para Classes em TypeScript.
 - [x] 27-4: SOLID - Introdução e Princípios S, O e D
-  - Escrever funções e classes que tenham uma única responsabilidade no escopo da sua aplicação.
-  - Escrever classes com funções que estão abertas para extensão e fechadas para modificação.
-  - Inverter dependências para dar a quem chama o controle sobre como uma função faz o que precisa.
-- [x] 27-5: SOLID - Princípios L e I
-  - Substituir objetos em um programa por instâncias de seus subtipos, sem alterar a funcionalidade do programa
-  - Compreender que muitas interfaces específicas são melhores do que uma para todos os propósitos;
-  - Aplicar todos os princípios SOLID.
 - [x] 27-8: Projeto - Trybers and Dragons
   - O conhecimento dos pilares da Programação Orientada a Objetos: Herança, Abstração, Encapsulamento e Polimorfismo.
   - A habilidade de criar e utilizar Interface;
@@ -291,45 +241,37 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   - Implementar, em TypeScript, Classes, Instâncias, Atributos, Métodos e Objetos;
   - O conhecimento e aplicação dos princípios SOLID.
 
-##### Bloco 28: NodeJS
+##### Bloco 28: Projeto TFC Trybe Footbal CLub
 
-- [ ] 28-1: _Arquitetura de Software - Camada de Serviço_
-- [ ] 28-2: _Arquitetura web - Rest e Restful_
-- [ ] 28-3: _[Projeto - Store Manager]()_
+  - Realizar a dockerização dos apps, network, volume e compose;
+  - Realizar a modelagem de dados com MySQL através do Sequelize;
+  - Realizar a criação e associação de tabelas usando models do sequelize;
+  - Realizar a construção de uma API REST com endpoints para consumir os models criados;
+  - Realizar a construção de um CRUD com TypeScript, utilizando ORM;
 
-##### Bloco 29: NodeJS
+##### Bloco 29: Introdução ao MongoDB
 
-- [ ] 29-1: _NodeJS - JWT - (JSON Web Token)_
-- [ ] 29-2: _NodeJS - Upload de arquivos com Multer_
-- [ ] 29-3: _[Projeto - Cookmaster V2]()_
+- [ ] 29-1: Introdução - NoSQL
+- [ ] 29-2: Filter Operators
+- [ ] 29-3: Operadores de consulta
+- [ ] 29-4: Updates Simple
+- [ ] 29-5: Updates Complexos - Arrays
+- [ ] 29-6: Projeto ECommerce 
 
-##### Bloco 30: IntroduÃ§Ã£o - Deploy
+##### Bloco 30: MongoDB com Node.js e POO
 
-- [ ] 30-1: _Infraestrutura - Deploy com Heroku_
-- [ ] 30-2: _Deploy - Gerenciadores de Processos_
-- [ ] 30-3: _[Projeto - Stranger Things]()_
+- [ ] 30-1: MongoDB e arquitetura MSC
+- [ ] 30-2: MongoDB e POO
+- [ ] 30-3: Projeto - Car Shop
 
-##### Bloco 31: Projeto
+##### Bloco 31: Projeto - App de Delivery
 
 - [ ] 31-1: _[Projeto - Trybeer]()_
 
-##### Bloco 32: Arquitetura de Software
+##### Bloco 32: MasterCLass - VPS, CI/CD
 
-- [ ] 32-1: _Arquitetura - Princípios SOLID_
-- [ ] 32-2: _ORM - Interface da aplicação com o banco de dados_
-- [ ] 32-3: _Arquitetura de Software - DDD_
-- [ ] 32-4: _Boas práticas na escrita de testes_
-- [ ] 32-3: _[Projeto - API de Blogs]()_
-
-##### Bloco 33: Sockets
-
-- [ ] 30-1: _Sockets - TCP/UDP & NET_
-- [ ] 30-2: _Sockets - Socket.io_
-- [ ] 30-3: _[Projeto - Webchat]()_
-
-##### Bloco 34: Projeto
-
-- [ ] 34-1: _[Projeto - Trybeer V2]()_
+- [ ] 32-1: VPS
+- [ ] 32-2: CI/CD
 
 ## Ciência da Computação :hourglass_flowing_sand:
 
