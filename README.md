@@ -209,18 +209,50 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 24-5: Projeto API de blogs
   - Montar uma API e um banco de dados para a produção de um blog.
 
-##### Bloco 25: Aggregation Framework
+##### Bloco 25: Deployment
 
-- [ ] 25-1: _Aggregation Framework - Part 1_
-- [ ] 25-2: _Aggregation Framework - Part 2_
-- [ ] 25-3: _[Projeto - Aggregations]()_
+- [x] 25-1: Deploy com Heroku
+  - Conhecer o que é um deploy e os principais serviços utilizados;
+  - Publicar aplicações através do Heroku;
+  - Visualizar logs das suas aplicações publicadas;
+  - Monitorar suas aplicações publicadas;
+  - Utilizar variáveis de ambiente dentro do Heroku.
+- [x] 25-2: Deploy Docker e Heroku
+  - Realizar o deploy de uma aplicação back-end;
+  - Configurar o docker para ser executado dentro do Heroku;
+  - Aprender o conceito e como implementar a pipeline CI/CD;
+  - Implementar Actions no GitHub;
+  - Adicionar uma pipeline ao Heroku.
+- [x] 25-3: Projeto - Stranger Things
+  - Preparar uma aplicação para deploy.
+  - Deploy da mesma aplicação front-end nos modos desenvolvimento e produção.
+  - Deploy de duas APIs diferentes em que o front vai realizar as consultas.
+  Uma API retorna os dados normais e outra de cabeça para baixo.
 
-##### Bloco 26: Intro - NodeJS
+##### Bloco 26: TypeScript
 
-- [ ] 26-1: _NodeJS - Introdução_
-- [ ] 26-2: _NodeJS - Fluxo Assíncrono_
-- [ ] 26-3: _NodeJS - Arquitetura_
-- [ ] 26-4: _[Projeto - A CLI of Ice and Fire]()_
+- [x] 26-1: Introdução ao TypeScript
+  - Definir o que é a linguagem TypeScript;
+  - Compreender a relação entre a linguagem TypeScript e a linguagem JavaScript;
+  - Compreender o que é Tipagem (Dicas de tipo);
+  - Compreender a diferença entre Compilador e Transpilador;
+  - Compilar o seu código TypeScript em código JavaScript;
+  - Compreender o sistema de tipos do TypeScript; e
+  - Declarar variáveis de tipos primitivos do TypeScript.
+- [x] 26-2: Tipagem Estática e Generics
+  - Declarar tipos em coleções, Arrays e Tuplas;
+  - Declarar variáveis de tipos objeto do TypeScript;
+  - Compreender o que são Type Aliases;
+  - Compreender o que é uma Classe;
+  - Compreender o que é uma Interface;
+  - Compreender o que são Generics;
+  - Estruturar um model que usa os conceitos aprendidos.
+- [x] 26-3: Express com TypeScript
+  - Configurar um projeto Node.js com TypeScript
+  - Criar uma aplicação Express com TypeScript
+- [x] 26-4: Projeto - Trybe - Smith
+  - desenvolver um CRUD (Create, Read, Update e Delete) de itens medievais, no formato de uma API, utilizando Typescript.
+  - Criar alguns endpoints que irão ler e escrever em um banco de dados, utilizando o MySQL.
 
 ##### Bloco 27: NodeJS
 
