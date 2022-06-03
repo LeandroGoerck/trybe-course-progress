@@ -146,6 +146,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 19-2: _Manipulação e Criação de Imagens no Docker_
 - [x] 19-3: _Orquestrando Containers com Docker Compose_
 - [x] 19-4: _[Projeto - Docker Todo-List]()_
+  - Conteinerizar as aplicações de frontend, backend e testes, criar uma conexão entre elas e orquestrar seu funcionamento! 🐋
 
 ##### Bloco 19: Introdução à SQL
 
@@ -155,6 +156,9 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 19-3: _Filtrando dados de forma específica_
 - [x] 19-4: _Manipulando tabelas_
 - [x] 19-5: _[Projeto - All For One]()_
+  - Desafios de SELECT e criação de dados;
+  - Desafios sobre filtragem de dados;
+  - Desafios de manipulação de tabelas.
 
 ##### Bloco 21: Funções SQL, JOINs e Normalização
 
@@ -162,6 +166,11 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 21-2: _Descomplicando JOINs_
 - [x] 21-3: _Transformando ideias em um modelo de banco de dados_
 - [x] 21-4: _[Projeto - One For All]()_
+  - Analisar se duas tabelas não normalizadas.
+  - Identificar modificações necessárias para que suas tabelas estejam adequadamente na 1ª, 2ª e 3ª Forma Normais.
+  - Criar um banco de dados a partir de uma planilha que contém tabelas e dados.
+  - Criar e modelar tabelas.
+  - Criar queries que passam pelos principais comandos SQL vistos até o momento.
 
 ##### Bloco 22: Introdução ao desenvolvimento Web com Node.js
 
@@ -172,6 +181,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 22-4: _Express - HTTP com Node.js_
 - [x] 22-5: _Express - Middlewares_
 - [x] 22-6: _[Projeto - Talker Manager]()_
+  - Criar uma API de cadastro e pesquisa de talkers.
 
 ##### Bloco 23: Node.js: Camada de Serviço e Arquitetura Rest e Restful
 
