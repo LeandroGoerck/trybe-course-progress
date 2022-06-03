@@ -262,31 +262,31 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   - Definir, em Programação Orientada a Objetos, uma Classe, um Construtor, um Objeto, uma Instância, um Método.
   - Implementar, em TypeScript, Classes, Instâncias, Atributos, Métodos e envio de Mensagens entre Objetos
   - Descrever, como pilar da Programação Orientada a Objetos, a Abstração - a criação de entidades que conterão, cada uma, parte da lógica de seu programa
- - Descrever, como pilar da Programação Orientada a Objetos, o Encapsulamento - a exposição somente do que é necessário para uso dos objetos de uma classe
+  - Descrever, como pilar da Programação Orientada a Objetos, o Encapsulamento - a exposição somente do que é necessário para uso dos objetos de uma classe
 - [x] 27-2: Herança e Interfaces
- - Descrever, como pilar da Programação Orientada a Objetos, a Herança, que é acapacidade de herdar, para especializar, os atributos e métodos de uma classe;
- - Definir, em Programação Orientada a Objetos, a Interface de uma classe;
- - Como boa prática, utilizar Herança apenas para especializar classes;
- - Como boa prática, utilizar Composição para compartilhar um mesmo código entre diferentes classes.
+  - Descrever, como pilar da Programação Orientada a Objetos, a Herança, que é acapacidade de herdar, para especializar, os atributos e métodos de uma classe;
+  - Definir, em Programação Orientada a Objetos, a Interface de uma classe;
+  - Como boa prática, utilizar Herança apenas para especializar classes;
+  - Como boa prática, utilizar Composição para compartilhar um mesmo código entre diferentes classes.
 - [x] 27-3: Polimorfismo
- - Descrever, como pilar da Programação Orientada a Objetos, o Polimorfismo: múltiplas formas de se implementar um método descrito em uma interface;
- - Descrever Classe Abstrata como uma classe que não pode ser instanciada, devendo ser usada apenas por suas Classes Herdeiras;
- - Definir Métodos Abstratos , ou Funções Abstratas;
- - Implementar Métodos Estáticos para Classes em TypeScript.
+  - Descrever, como pilar da Programação Orientada a Objetos, o Polimorfismo: múltiplas formas de se implementar um método descrito em uma interface;
+  - Descrever Classe Abstrata como uma classe que não pode ser instanciada, devendo ser usada apenas por suas Classes Herdeiras;
+  - Definir Métodos Abstratos , ou Funções Abstratas;
+  - Implementar Métodos Estáticos para Classes em TypeScript.
 - [x] 27-4: SOLID - Introdução e Princípios S, O e D
- - Escrever funções e classes que tenham uma única responsabilidade no escopo da sua aplicação.
- - Escrever classes com funções que estão abertas para extensão e fechadas para modificação.
- - Inverter dependências para dar a quem chama o controle sobre como uma função faz o que precisa.
+  - Escrever funções e classes que tenham uma única responsabilidade no escopo da sua aplicação.
+  - Escrever classes com funções que estão abertas para extensão e fechadas para modificação.
+  - Inverter dependências para dar a quem chama o controle sobre como uma função faz o que precisa.
 - [x] 27-5: SOLID - Princípios L e I
- - Substituir objetos em um programa por instâncias de seus subtipos, sem alterar a funcionalidade do programa
- - Compreender que muitas interfaces específicas são melhores do que uma para todos os propósitos;
- - Aplicar todos os princípios SOLID.
+  - Substituir objetos em um programa por instâncias de seus subtipos, sem alterar a funcionalidade do programa
+  - Compreender que muitas interfaces específicas são melhores do que uma para todos os propósitos;
+  - Aplicar todos os princípios SOLID.
 - [x] 27-8: Projeto - Trybers and Dragons
- - O conhecimento dos pilares da Programação Orientada a Objetos: Herança, Abstração, Encapsulamento e Polimorfismo.
- - A habilidade de criar e utilizar Interface;
- - A habilidade de utilizar Composição;
- - Implementar, em TypeScript, Classes, Instâncias, Atributos, Métodos e Objetos;
- - O conhecimento e aplicação dos princípios SOLID.
+  - O conhecimento dos pilares da Programação Orientada a Objetos: Herança, Abstração, Encapsulamento e Polimorfismo.
+  - A habilidade de criar e utilizar Interface;
+  - A habilidade de utilizar Composição;
+  - Implementar, em TypeScript, Classes, Instâncias, Atributos, Métodos e Objetos;
+  - O conhecimento e aplicação dos princípios SOLID.
 
 ##### Bloco 28: NodeJS
 
