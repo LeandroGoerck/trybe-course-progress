@@ -253,7 +253,8 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 26-4: Projeto - Trybe - Smith
   - desenvolver um CRUD (Create, Read, Update e Delete) de itens medievais, no formato de uma API, utilizando Typescript.
   - Criar alguns endpoints que irão ler e escrever em um banco de dados, utilizando o MySQL.
-
+<details>
+  <summary><strong>Bloco 27: Programação Orientada a Objetos (POO) e SOLID</strong></summary><br />
 ##### Bloco 27: Programação Orientada a Objetos (POO) e SOLID
 
 - [x] 27-1: Introdução á Orientação a Objetos
@@ -287,7 +288,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   - A habilidade de utilizar Composição;
   - Implementar, em TypeScript, Classes, Instâncias, Atributos, Métodos e Objetos;
   - O conhecimento e aplicação dos princípios SOLID.
-
+</details>
 ##### Bloco 28: NodeJS
 
 - [ ] 28-1: _Arquitetura de Software - Camada de Serviço_
