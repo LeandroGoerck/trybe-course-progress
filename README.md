@@ -103,7 +103,7 @@ Essa página vai ser desenvolvida do zero, utilizando os arquivos index.html e s
 - [x] 11-1: _Components com estado e eventos_
 - [x] 11-2: _Formulários no React_
 - [x] 11-3: _[Projeto - Tryunfo]()_
-- Criar uma aplicação que seja capaz de adicionar e listar cartas em um baralho no estilo Super Trunfo. Você deverá implementar componentes, e combiná-los junto com o estado da aplicação para criar seu baralho Tryunfo.
+  - Criar uma aplicação que seja capaz de adicionar e listar cartas em um baralho no estilo Super Trunfo. Você deverá implementar componentes, e combiná-los junto com o estado da aplicação para criar seu baralho Tryunfo.
 
 ##### Bloco 12: Ciclo de Vida de Componentes e React Router
 
@@ -254,8 +254,9 @@ Essa página vai ser desenvolvida do zero, utilizando os arquivos index.html e s
   - Implementar, em TypeScript, Classes, Instâncias, Atributos, Métodos e Objetos;
   - O conhecimento e aplicação dos princípios SOLID.
 
-##### Bloco 28: Projeto TFC Trybe Footbal CLub
+##### Bloco 28: Projeto Trybe Footbal Club TFC
 
+- [ ] 28-1: Projeto Trybe Footbal Club TFC
   - Realizar a dockerização dos apps, network, volume e compose;
   - Realizar a modelagem de dados com MySQL através do Sequelize;
   - Realizar a criação e associação de tabelas usando models do sequelize;
