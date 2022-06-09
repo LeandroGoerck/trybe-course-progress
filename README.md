@@ -256,7 +256,7 @@ Essa página vai ser desenvolvida do zero, utilizando os arquivos index.html e s
 
 ##### Bloco 28: Projeto Trybe Footbal Club TFC
 
-- [ ] 28-1: Projeto Trybe Footbal Club TFC
+- [x] 28-1: Projeto Trybe Footbal Club TFC
   - Realizar a dockerização dos apps, network, volume e compose;
   - Realizar a modelagem de dados com MySQL através do Sequelize;
   - Realizar a criação e associação de tabelas usando models do sequelize;
