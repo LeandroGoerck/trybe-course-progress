@@ -133,7 +133,7 @@ Essa página vai ser desenvolvida do zero, utilizando os arquivos index.html e s
 - [x] 15-3: _Usando o Redux no React - Prática_
 - [x] 15-4: _Usando o Redux no React - Actions Assíncronas_
 - [x] 15-5: _Testes em React-Redux_
-- [x] 15-6: _[Projeto - Trybe Wallet]()_
+- [x] 15-6: _[Projeto - Trybe Wallet](https://github.com/LeandroGoerck/trybe-wallet)_
   - Criar uma aplicação que computa gastos em diferentes moedas e converte tudo para uma única moeda, que pode ser escolhida por quem usa. Para obter as informações sobre os nomes, cotações e outros dados sobre as moedas você irá acessar um endpoint da API de Cotações de Moedas. Tudo isso usando o Redux para compartilhar o estado da sua aplicação entre seus vários componentes.
 
 ##### Bloco 16: Projeto React
