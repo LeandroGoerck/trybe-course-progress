@@ -265,16 +265,17 @@ Essa página vai ser desenvolvida do zero, utilizando os arquivos index.html e s
 
 ##### Bloco 29: Introdução ao MongoDB
 
-- [ ] 29-1: Introdução - NoSQL
-- [ ] 29-2: Filter Operators
-- [ ] 29-3: Operadores de consulta
-- [ ] 29-4: Updates Simple
-- [ ] 29-5: Updates Complexos - Arrays
-- [ ] 29-6: Projeto ECommerce 
+- [x] 29-1: Introdução - NoSQL
+- [x] 29-2: Filter Operators
+- [x] 29-3: Operadores de consulta
+- [x] 29-4: Updates Simple
+- [x] 29-5: Updates Complexos - Arrays
+- [x] 29-6: Projeto ECommerce 
+- São 32 desafios de consulta e alteração em um banco de dados MongoDb;
 
 ##### Bloco 30: MongoDB com Node.js e POO
 
-- [ ] 30-1: MongoDB e arquitetura MSC
+- [x] 30-1: MongoDB e arquitetura MSC
 - [ ] 30-2: MongoDB e POO
 - [ ] 30-3: Projeto - Car Shop
 
