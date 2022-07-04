@@ -25,7 +25,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 3-2: _HTML & CSS - Primeiros passos em CSS_
 - [x] 3-3: _HTML & CSS - Seletores e posicionamento_
 - [x] 3-4: _HTML Semântico_
-- [x] 3-5: _[Projeto - HTML & CSS]()_
+- [x] 3-5: Projeto - HTML & CSS
   -  criar um site utilizando as principais tags HTML para compor a estrutura de uma página e irá estilizar e alterar o posicionamento dos componentes através de CSS.
 Essa página vai ser desenvolvida do zero, utilizando os arquivos index.html e style.css para o HTML e CSS, respectivamente.
 
@@ -35,7 +35,7 @@ Essa página vai ser desenvolvida do zero, utilizando os arquivos index.html e s
 - [x] 4-2: _JavaScript - Array e loop For_
 - [x] 4-3: _JavaScript - LÃ³gica de Programação e Algoritmos_
 - [x] 4-4: _JavaScript - Objetos e funções_
-- [x] 4-5: _[Projeto - Playground Functions]()_
+- [x] 4-5: Projeto - Playground Functions
   - Desenvolver funções seguindo os requisitos especificados para o correto comportamento de cada uma delas.
 
 ##### Bloco 5: Introdução - JavaScript - Projetos
@@ -44,11 +44,11 @@ Essa página vai ser desenvolvida do zero, utilizando os arquivos index.html e s
 - [x] 5-2: _JavaScript - Trabalhando com elementos_
 - [x] 5-3: _JavaScript - Eventos_
 - [x] 5-4: _JavaScript - Web Storage_
-- [ ] 5-5: _[Projeto - Meme Generator]()_
-- [x] 5-6: _[Projeto - Arte com Pixels]()_
-- [x] 5-7: _[Projeto - Lista de tarefas]()_
-- [ ] 5-7: _[Projeto - Adivinhe a Cor]()_
-- [ ] 5-7: _[Projeto - Carta Misteriosa]()_
+- [ ] 5-5: Projeto - Meme Generator
+- [x] 5-6: Projeto - Arte com Pixels
+- [x] 5-7: Projeto - Lista de tarefas
+- [ ] 5-7: Projeto - Adivinhe a Cor
+- [ ] 5-7: Projeto - Carta Misteriosa
 
 ##### Bloco 6: HTML & CSS avançado
 
@@ -57,7 +57,7 @@ Essa página vai ser desenvolvida do zero, utilizando os arquivos index.html e s
 - [x] 6-3: _CSS Flexbox - Part 1_
 - [x] 6-4: _CSS Flexbox - Part 2_
 - [x] 6-5: _CSS Responsivo - Mobile First_
-- [x] 7-4: _[Projeto - Trybewarts]()_
+- [x] 7-4: Projeto - Trybewarts
   -Desenvolver o formulário para de inscrição para a Trybewarts.
   
 ##### Bloco 7: JavaScript ES6 & Testes Unitários
@@ -65,7 +65,7 @@ Essa página vai ser desenvolvida do zero, utilizando os arquivos index.html e s
 - [x] 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
 - [x] 7-2: _JavaScript ES6 - Objects_
 - [x] 7-3: _Testes unitários em JavaScript_
-- [x] 7-4: _[Projeto - JavaScript Testes Unitários]()_
+- [x] 7-4: Projeto - JavaScript Testes Unitários
   - Desenvolver funções seguindo requisitos específicos e, para garantir o correto funcionamento, ou seja, a qualidade do código, você implementará testes unitários para certificá-los.
 
 ##### Bloco 8: Higher Order Functions do JavaScript ES6
@@ -75,7 +75,7 @@ Essa página vai ser desenvolvida do zero, utilizando os arquivos index.html e s
 - [x] 8-3: _JavaScript ES6 - Higher Order Functions - map e filter_
 - [x] 8-4: _JavaScript ES6 - Higher Order Functions - reduce_
 - [x] 8-5: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
-- [x] 8-6: _[Projeto - Zoo functions]()_
+- [x] 8-6: Projeto - Zoo functions
   - Simular um sistema de relatório de um zoológico. O sistema possui informações a respeito dos animais presentes no zoológico, colaboradores, horários de funcionamento e uma tabela de preços que varia de acordo com a idade das pessoas que o visitam.
   - Desenvolver um conjunto de funções capazes de recuperar vários tipos de informações acerca do zoológico e de seu funcionamento, utilizando os conceitos de JavaScript que aprendeu nesta semana.
 
@@ -86,7 +86,7 @@ Essa página vai ser desenvolvida do zero, utilizando os arquivos index.html e s
 - [x] 9-1: _JavaScript Assíncrono e Callbacks_
 - [x] 9-2: _JavaScript Assíncrono - Fetch API e async/await_
 - [x] 9-3: _Jest - Testes Assíncronos_
-- [x] 9-4: _[Projeto - Carrinho de Compras]()_
+- [x] 9-4: Projeto - Carrinho de Compras
   - Implementar um carrinho de compras em uma página web.
 
 ##### Bloco 10: Introdução - React
@@ -95,27 +95,27 @@ Essa página vai ser desenvolvida do zero, utilizando os arquivos index.html e s
 - [x] 10-1: _Introdução - React_
 - [x] 10-1: _'Hello, world!' no React!_
 - [x] 10-2: _Componentes React_
-- [x] 10-3: _[Projeto - Sistema Solar]()_
+- [x] 10-3: Projeto - Sistema Solar
   - Desenvolverá um aplicação usando React: uma página para listar todos os planetas do Sistema Solar e também algumas das missões espaciais mais conhecidas.
 
 ##### Bloco 11: Componentes com Estado, Eventos e Formulários com React
 
 - [x] 11-1: _Components com estado e eventos_
 - [x] 11-2: _Formulários no React_
-- [x] 11-3: _[Projeto - Tryunfo]()_
+- [x] 11-3: Projeto - Tryunfo
   - Criar uma aplicação que seja capaz de adicionar e listar cartas em um baralho no estilo Super Trunfo. Você deverá implementar componentes, e combiná-los junto com o estado da aplicação para criar seu baralho Tryunfo.
 
 ##### Bloco 12: Ciclo de Vida de Componentes e React Router
 
 - [x] 12-1: _Ciclo de vida de componentes em React_
 - [x] 12-2: _React Router_
-- [x] 13-3: _[Projeto - TrybeTunes]()_
+- [x] 13-3: Projeto - TrybeTunes
   - Desenvolver uma aplicação que permita pesquisar e listar álbuns e músicas de bandas e artistas, além de ser possível executar o preview e favoritar suas músicas preferidas. Dessa forma, você estará colocando em prática os conceitos de React Router e lifecycle-methods.
 
 ##### Bloco 13: Metodologias ágeis
 
 - [x] 13-1: _Metodologias Ágeis_
-- [x] 13-2: _[Projeto - Frontend Online Store]()_
+- [x] 13-2: Projeto - Frontend Online Store
   - Construir o Front-End de um e-commerce, uma loja online, alimentada por uma API do Mercado Livre. Praticar a componentização dos arquivos. Trabalho em grupo.
 
 ##### Bloco 14: Testes automatizados com React Testing Library
@@ -123,7 +123,7 @@ Essa página vai ser desenvolvida do zero, utilizando os arquivos index.html e s
 - [x] 14-1: _RTL - Primeiros passos_
 - [x] 14-2: _RTL - Mocks e Inputs_
 - [x] 14-3: _RTL - Testando React Router_
-- [x] 14-4: _[Projeto - Testes em React]()_
+- [x] 14-4: Projeto - Testes em React
   - Desenvolver testes para cada requisito implementado em sua Pokédex.
 
 ##### Bloco 15: Gerenciamento de estado com Redux
@@ -138,7 +138,7 @@ Essa página vai ser desenvolvida do zero, utilizando os arquivos index.html e s
 
 ##### Bloco 16: Projeto React
 
-- [x] 16-1: _[Projeto - Jogo de Trivia]()_
+- [x] 16-1: Projeto - Jogo de Trivia
   - Desenvolver um jogo de perguntas e respostas baseado no jogo Trivia, parecido um show do milhão americano, utilizando React, Redux e Testes Unitários.
 
 ##### Bloco 17: React & Context API
@@ -146,13 +146,13 @@ Essa página vai ser desenvolvida do zero, utilizando os arquivos index.html e s
 - [x] 17-1: _Context API do React_
 - [x] 17-2: _React Hooks - useState e useContext_
 - [x] 17-3: _React Hooks - useEffect e Hooks customizados_
-- [x] 17-4: _[Projeto - StarWars Datatable com Context API e Hooks]()_
+- [x] 17-4: Projeto - StarWars Datatable com Context API e Hooks
   - Criar uma aplicação que consulta uma API para recuperar dados dos planetas do universo de Star Wars.
   - Você irá usar os dados retornados pela API para criar uma tabela com alguns filtros. Os planetas poderão ser filtrados por suas características, como população, período orbital, diâmetro e outras.
 
 ##### Bloco 18: Projeto Final de Front-end
 
-- [x] 19-1: _[Projeto - App de Receitas]()_
+- [x] 19-1: _[Projeto - App de Receitas](https://github.com/LeandroGoerck/recipes-app)_
   - Desenvolver um app de receitas, utilizando o que há de mais moderno dentro do ecossistema React: Hooks e Context API!
   - O projeto consiste em desenvolver um sistema que permite visualizar, buscar, filtrar, favoritar, compartilhar e acompanhar o processo de preparação de receitas e drinks. A base de dados serão 2 APIs distintas, uma para comidas e outra para bebidas.
   - O layout tem como foco dispositivos móveis, então todos os protótipos vão estar desenvolvidos em telas menores.
@@ -165,7 +165,7 @@ Essa página vai ser desenvolvida do zero, utilizando os arquivos index.html e s
 - [x] 19-1: _Utilizando Containers - Docker_
 - [x] 19-2: _Manipulação e Criação de Imagens no Docker_
 - [x] 19-3: _Orquestrando Containers com Docker Compose_
-- [x] 19-4: _[Projeto - Docker Todo-List]()_
+- [x] 19-4: Projeto - Docker Todo-List
   - Conteinerizar as aplicações de frontend, backend e testes, criar uma conexão entre elas e orquestrar seu funcionamento! 🐋
 
 ##### Bloco 19: Introdução à SQL
@@ -175,7 +175,7 @@ Essa página vai ser desenvolvida do zero, utilizando os arquivos index.html e s
 - [x] 19-2: _Encontrando dados em um banco de dados_
 - [x] 19-3: _Filtrando dados de forma específica_
 - [x] 19-4: _Manipulando tabelas_
-- [x] 19-5: _[Projeto - All For One]()_
+- [x] 19-5: Projeto - All For One
   - Desafios de SELECT e criação de dados;
   - Desafios sobre filtragem de dados;
   - Desafios de manipulação de tabelas.
@@ -185,7 +185,7 @@ Essa página vai ser desenvolvida do zero, utilizando os arquivos index.html e s
 - [x] 21-1: _Funções mais usadas no SQL_
 - [x] 21-2: _Descomplicando JOINs_
 - [x] 21-3: _Transformando ideias em um modelo de banco de dados_
-- [x] 21-4: _[Projeto - One For All]()_
+- [x] 21-4: Projeto - One For All
   - Analisar se duas tabelas não normalizadas.
   - Identificar modificações necessárias para que suas tabelas estejam adequadamente na 1ª, 2ª e 3ª Forma Normais.
   - Criar um banco de dados a partir de uma planilha que contém tabelas e dados.
@@ -200,7 +200,7 @@ Essa página vai ser desenvolvida do zero, utilizando os arquivos index.html e s
 - [x] 22-3: _Mocha, Chai e Sinon - Testes de Back-end com Node.js_
 - [x] 22-4: _Express - HTTP com Node.js_
 - [x] 22-5: _Express - Middlewares_
-- [x] 22-6: _[Projeto - Talker Manager]()_
+- [x] 22-6: Projeto - Talker Manager
   - Criar uma API de cadastro e pesquisa de talkers.
 
 ##### Bloco 23: Node.js: Camada de Serviço e Arquitetura Rest e Restful
@@ -210,7 +210,7 @@ Essa página vai ser desenvolvida do zero, utilizando os arquivos index.html e s
 - [x] 23-2: _Arquitetura de Software - Camada de Controller e Service_
 - [x] 23-3: _Arquitetura Web - Rest e Restful_
 - [x] 23-4: _Arquitetura de Software - Testando as Camadas_ 
-- [x] 23-3: _[Projeto - Store Manager]()_
+- [x] 23-3: Projeto - Store Manager
   - Criação de uma API completamente RESTful.
 
 ##### Bloco 24: Node.js: ORM e Autenticação
@@ -270,7 +270,7 @@ Essa página vai ser desenvolvida do zero, utilizando os arquivos index.html e s
 - [x] 29-3: Operadores de consulta
 - [x] 29-4: Updates Simple
 - [x] 29-5: Updates Complexos - Arrays
-- [x] 29-6: Projeto ECommerce 
+- [x] 29-6: Projeto Commerce 
 - São 32 desafios de consulta e alteração em um banco de dados MongoDb;
 
 ##### Bloco 30: MongoDB com Node.js e POO
@@ -281,7 +281,7 @@ Essa página vai ser desenvolvida do zero, utilizando os arquivos index.html e s
 
 ##### Bloco 31: Projeto - App de Delivery
 
-- [ ] 31-1: _[Projeto - Trybeer]()_
+- [ ] 31-1: Projeto - Trybeer
 
 ##### Bloco 32: MasterCLass - VPS, CI/CD
 
@@ -295,7 +295,7 @@ Essa página vai ser desenvolvida do zero, utilizando os arquivos index.html e s
 - [ ] 35-1: _Arquitetura de Computadores_
 - [ ] 35-2: _Arquitetura de redes_
 - [ ] 35-3: _Redes de computadores, ferramentas e seguranÃ§a_
-- [ ] 35-4: _[Projeto - Explorando os protocolos]()_
+- [ ] 35-4: Projeto - Explorando os protocolos
 
 ##### Bloco 36: Python
 
@@ -303,6 +303,6 @@ Essa página vai ser desenvolvida do zero, utilizando os arquivos index.html e s
 - [ ] 35-2: _Testes e Exceções_
 - [ ] 35-3: _Entrada e Saída de dados_
 - [ ] 36-4: _Entrada e Saída de dados_
-- [ ] 35-5: _[Projeto - Tech news]()_
+- [ ] 35-5: Projeto - Tech news
 
 # [...]
