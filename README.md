@@ -276,8 +276,8 @@ Essa página vai ser desenvolvida do zero, utilizando os arquivos index.html e s
 ##### Bloco 30: MongoDB com Node.js e POO
 
 - [x] 30-1: MongoDB e arquitetura MSC
-- [ ] 30-2: MongoDB e POO
-- [ ] 30-3: Projeto - Car Shop
+- [x] 30-2: MongoDB e POO
+- [x] 30-3: Projeto - Car Shop
 
 ##### Bloco 31: Projeto - App de Delivery
 
