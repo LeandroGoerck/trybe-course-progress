@@ -281,7 +281,7 @@ Essa página vai ser desenvolvida do zero, utilizando os arquivos index.html e s
 
 ##### Bloco 31: Projeto - App de Delivery
 
-- [ ] 31-1: Projeto - Trybeer
+- [x] 31-1: Projeto - Trybeer
 
 ##### Bloco 32: MasterCLass - VPS, CI/CD
 
