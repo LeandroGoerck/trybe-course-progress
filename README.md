@@ -215,17 +215,17 @@ Essa página vai ser desenvolvida do zero, utilizando os arquivos index.html e s
 
 ##### Bloco 24: Node.js: ORM e Autenticação
 
-- [x] 24-1: ORM - Interface da aplicação com o banco de dados
-- [x] 24-2: ORM - Associations
-- [x] 24-3: JWT - (JSON Web Token)
-- [x] 24-4: Testando APIs com Testes de Integração
+- [x] 24-1: _ORM - Interface da aplicação com o banco de dados_
+- [x] 24-2: _ORM - Associations_
+- [x] 24-3: _JWT - (JSON Web Token)_
+- [x] 24-4: _Testando APIs com Testes de Integração_
 - [x] 24-5: Projeto API de blogs
   - Montar uma API e um banco de dados para a produção de um blog.
 
 ##### Bloco 25: Deployment
 
-- [x] 25-1: Deploy com Heroku
-- [x] 25-2: Deploy Docker e Heroku
+- [x] 25-1: _Deploy com Heroku_
+- [x] 25-2: _Deploy Docker e Heroku_
 - [x] 25-3: Projeto - Stranger Things
   - Preparar uma aplicação para deploy.
   - Deploy da mesma aplicação front-end nos modos desenvolvimento e produção.
@@ -234,19 +234,19 @@ Essa página vai ser desenvolvida do zero, utilizando os arquivos index.html e s
 
 ##### Bloco 26: TypeScript
 
-- [x] 26-1: Introdução ao TypeScript
-- [x] 26-2: Tipagem Estática e Generics
-- [x] 26-3: Express com TypeScript
+- [x] 26-1: _Introdução ao TypeScript_
+- [x] 26-2: _Tipagem Estática e Generics_
+- [x] 26-3: _Express com TypeScript_
 - [x] 26-4: Projeto - Trybe - Smith
   - desenvolver um CRUD (Create, Read, Update e Delete) de itens medievais, no formato de uma API, utilizando Typescript.
   - Criar alguns endpoints que irão ler e escrever em um banco de dados, utilizando o MySQL.
 
 ##### Bloco 27: Programação Orientada a Objetos (POO) e SOLID
 
-- [x] 27-1: Introdução á Orientação a Objetos
-- [x] 27-2: Herança e Interfaces
-- [x] 27-3: Polimorfismo
-- [x] 27-4: SOLID - Introdução e Princípios S, O e D
+- [x] 27-1: _Introdução á Orientação a Objetos_
+- [x] 27-2: _Herança e Interfaces_
+- [x] 27-3: _Polimorfismo_
+- [x] 27-4: _SOLID - Introdução e Princípios S, O e D_
 - [x] 27-8: Projeto - Trybers and Dragons
   - O conhecimento dos pilares da Programação Orientada a Objetos: Herança, Abstração, Encapsulamento e Polimorfismo.
   - A habilidade de criar e utilizar Interface;
@@ -265,18 +265,18 @@ Essa página vai ser desenvolvida do zero, utilizando os arquivos index.html e s
 
 ##### Bloco 29: Introdução ao MongoDB
 
-- [x] 29-1: Introdução - NoSQL
-- [x] 29-2: Filter Operators
-- [x] 29-3: Operadores de consulta
-- [x] 29-4: Updates Simple
-- [x] 29-5: Updates Complexos - Arrays
+- [x] 29-1: _Introdução - NoSQL
+- [x] 29-2: _Filter Operators_
+- [x] 29-3: _Operadores de consulta_
+- [x] 29-4: _Updates Simple_
+- [x] 29-5: _Updates Complexos - Arrays_
 - [x] 29-6: Projeto Commerce 
 - São 32 desafios de consulta e alteração em um banco de dados MongoDb;
 
 ##### Bloco 30: MongoDB com Node.js e POO
 
-- [x] 30-1: MongoDB e arquitetura MSC
-- [x] 30-2: MongoDB e POO
+- [x] 30-1: _MongoDB e arquitetura MSC_
+- [x] 30-2: _MongoDB e POO_
 - [x] 30-3: Projeto - Car Shop
 
 ##### Bloco 31: Projeto - App de Delivery
@@ -285,8 +285,8 @@ Essa página vai ser desenvolvida do zero, utilizando os arquivos index.html e s
 
 ##### Bloco 32: MasterCLass - VPS, CI/CD
 
-- [x] 32-1: VPS
-- [x] 32-2: CI/CD
+- [x] 32-1: _VPS_
+- [x] 32-2: _CI/CD_
 
 ## Ciência da Computação :hourglass_flowing_sand:
 
@@ -300,7 +300,7 @@ Essa página vai ser desenvolvida do zero, utilizando os arquivos index.html e s
 
 ##### Bloco 34: Padrões de Projeto
 
-- [x] 34-1: _P.O.O. em Python
+- [x] 34-1: _P.O.O. em Python_
 - [x] 34-2: _Padrões - Iterator, Adapter, Strategy_
 - [x] 34-3: _Padrões - Decorator, Observer, Factory_
 - [x] 34-4: Projeto - Relatórios de Estoque
