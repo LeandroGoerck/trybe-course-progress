@@ -285,24 +285,53 @@ Essa página vai ser desenvolvida do zero, utilizando os arquivos index.html e s
 
 ##### Bloco 32: MasterCLass - VPS, CI/CD
 
-- [ ] 32-1: VPS
-- [ ] 32-2: CI/CD
+- [x] 32-1: VPS
+- [x] 32-2: CI/CD
 
 ## Ciência da Computação :hourglass_flowing_sand:
 
-##### Bloco 35: Introdução - Ciência da Computação
+##### Bloco 33: Introdução à Python
 
-- [ ] 35-1: _Arquitetura de Computadores_
-- [ ] 35-2: _Arquitetura de redes_
-- [ ] 35-3: _Redes de computadores, ferramentas e seguranÃ§a_
-- [ ] 35-4: Projeto - Explorando os protocolos
+- [x] 33-1: _Introdução - Ciência da Computação_
+- [x] 33-2: _Aprendendo Python_
+- [x] 33-3: _Entrada e Saída de Dados_
+- [x] 33-4: _Testes_
+- [x] 33-5: Projeto - Job Insights
 
-##### Bloco 36: Python
+##### Bloco 34: Padrões de Projeto
 
-- [ ] 35-1: _Aprendendo Python_
-- [ ] 35-2: _Testes e Exceções_
-- [ ] 35-3: _Entrada e Saída de dados_
-- [ ] 36-4: _Entrada e Saída de dados_
-- [ ] 35-5: Projeto - Tech news
+- [x] 34-1: _P.O.O. em Python
+- [x] 34-2: _Padrões - Iterator, Adapter, Strategy_
+- [x] 34-3: _Padrões - Decorator, Observer, Factory_
+- [x] 34-4: Projeto - Relatórios de Estoque
 
-# [...]
+##### Bloco 35: Redes e Raspagem de Dados
+
+- [x] 35-1: _Arquitetura de redes, ferramentas e segurança_
+- [x] 35-2: _Raspagem de Dados_
+- [x] 35-3: _Outras Ferramentas de Raspagem de Dados_
+- [x] 35-4: Projeto - Tech News
+
+##### Bloco 36: Algoritmos
+
+- [x] 36-1: _Complexidade dr Algoritmos_
+- [x] 36-2: _Recursividade e Estratégias para solução de problemas_
+- [x] 36-3: _Algoritmos de ordenação e busca_
+- [x] 36-4: Projeto - Algoritmos
+
+##### Bloco 37: Estrutura de Dados I: Arrays, Listas, Filas e Pilhas
+
+- [ ] 37-1: _Arquitetura de Computadores_
+- [ ] 37-2: _Arrays_
+- [ ] 37-3: _Nó e Listas Encadeadas_
+- [ ] 37-4: _Pilhas e Filas_
+- [ ] 37-5: Projeto - TING - Trybe Is Not Google
+
+##### Bloco 38: Estrutura de Dados II: Hashmaps e Sets
+
+- [ ] 38-1: _Hashmap e Dict_
+- [ ] 38-2: _Set_
+- [ ] 38-3: _Nó e Listas Encadeadas_
+- [ ] 38-4: Projeto - Restaurant Orders
+
+
