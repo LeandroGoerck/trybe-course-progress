@@ -321,15 +321,15 @@ Essa página vai ser desenvolvida do zero, utilizando os arquivos index.html e s
 
 ##### Bloco 37: Estrutura de Dados I: Arrays, Listas, Filas e Pilhas
 
-- [ ] 37-1: _Arquitetura de Computadores_
-- [ ] 37-2: _Arrays_
-- [ ] 37-3: _Nó e Listas Encadeadas_
-- [ ] 37-4: _Pilhas e Filas_
-- [ ] 37-5: Projeto - TING - Trybe Is Not Google
+- [x] 37-1: _Arquitetura de Computadores_
+- [x] 37-2: _Arrays_
+- [x] 37-3: _Nó e Listas Encadeadas_
+- [x] 37-4: _Pilhas e Filas_
+- [x] 37-5: Projeto - TING - Trybe Is Not Google
 
 ##### Bloco 38: Estrutura de Dados II: Hashmaps e Sets
 
-- [ ] 38-1: _Hashmap e Dict_
+- [x] 38-1: _Hashmap e Dict_
 - [ ] 38-2: _Set_
 - [ ] 38-3: _Nó e Listas Encadeadas_
 - [ ] 38-4: Projeto - Restaurant Orders
